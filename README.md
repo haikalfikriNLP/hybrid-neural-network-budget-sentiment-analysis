@@ -66,7 +66,13 @@ pip install -r requirements.txt
 1. Jalankan `Preprocessing Sentiment Analysis.ipynb` untuk membuat dataset.
 2. Gunakan hasil `.csv` untuk menjalankan `Perbandingan Model dan Hybrid Model.ipynb`.
 
-## 👨‍💻 Author
+## 👨‍💻 Research Novelty
 
-**Haikal Fikri**  
-GitHub: [@haikalfikriNLP](https://github.com/haikalfikriNLP)
+Penelitian ini mengusulkan Hybrid Neural Network
+berbasis ensemble stacking,
+di mana output prediksi dari SVM, K-NN,
+dan Naïve Bayes
+digunakan sebagai input
+pada Neural Network
+sebagai meta-classifier.
+ 
